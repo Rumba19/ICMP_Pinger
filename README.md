@@ -45,6 +45,7 @@ Pinging 142.250.80.238 using Python:
 0.020802021
 0.013922214
 ```
+![output](image.png)
 
 ## Implementation Details
 - **ICMP Echo Request**: Type 8 packet sent to target
